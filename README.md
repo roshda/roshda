@@ -1,6 +1,9 @@
-xarikn
+xarikn 
 
-she/they
+student
+
+any pronouns
+
 
 <!---
 xarikn/xarikn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
