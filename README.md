@@ -1,8 +1,6 @@
-xarikn 
+nngng 
 
-student
-
-any pronouns
+>:D
 
 
 <!---
