@@ -3,7 +3,7 @@
 aslkdjalsdkjadlkajsd
 
 
-student stupid student stupid stupid student student student stu stu sssssdsssssususususuuuuuu
+[![nngngn's GitHub stats](https://github-readme-stats.vercel.app/api?nngngn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!---
