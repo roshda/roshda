@@ -1,7 +1,7 @@
  
 
-aslkdjalsdkjadlkajsd
-
+student 
+lolol
 
 [![nngngn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nngngn)](https://github.com/anuraghazra/github-readme-stats)
 
