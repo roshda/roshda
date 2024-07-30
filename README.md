@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I'm Roshni! 🎀🌸📚
+## 👋🏽 Hi, I'm Roshni! 📚🛠️🧮🦖🧩📊🎨💻
 
 🌐 coming soon
 
