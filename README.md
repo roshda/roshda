@@ -1,7 +1,7 @@
-## 👋🏽 Hi, I'm Roshni! 
+## Hi, I'm Roshni :)
 
-🌐 [roshda.github.io](https://roshda.github.io)
+[roshda.github.io](https://roshda.github.io)
 
-📜 [/in/roshnidave](https://www.linkedin.com/in/roshnidave/)
+[/in/roshnidave](https://www.linkedin.com/in/roshnidave/)
 
-💬 [roshnidave [at] ucla.edu](mailto:roshnidave@ucla.edu)
+[roshnidave [at] ucla.edu](mailto:roshnidave@ucla.edu)
